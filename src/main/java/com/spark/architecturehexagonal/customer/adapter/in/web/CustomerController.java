@@ -1,7 +1,7 @@
 package com.spark.architecturehexagonal.customer.adapter.in.web;
 
 import com.spark.architecturehexagonal.customer.application.port.in.dto.CustomerRequestDto;
-import com.spark.architecturehexagonal.customer.application.port.in.facade.CustomerProcess;
+import com.spark.architecturehexagonal.customer.application.port.facade.CustomerProcess;
 import com.spark.architecturehexagonal.customer.application.port.out.dto.CustomerResponseDto;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

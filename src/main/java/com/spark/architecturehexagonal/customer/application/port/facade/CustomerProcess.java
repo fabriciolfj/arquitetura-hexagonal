@@ -1,4 +1,4 @@
-package com.spark.architecturehexagonal.customer.application.port.in.facade;
+package com.spark.architecturehexagonal.customer.application.port.facade;
 
 import com.spark.architecturehexagonal.customer.application.port.in.dto.CustomerRequestDto;
 import com.spark.architecturehexagonal.customer.application.port.in.mapper.CustomerRequestMapper;
